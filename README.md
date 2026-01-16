@@ -16,19 +16,8 @@ ChatPDF+ is a local, privacy-preserving PDF Question Answering system that allow
 ---
 
 ## 🧠 How It Works
-PDF Upload
-↓
-Text Extraction (PyMuPDF)
-↓
-Text Chunking
-↓
-Relevant Chunk Retrieval
-↓
-Context Injection
-↓
-Local LLM (Ollama)
-↓
-Answer to User
+
+<img width="217" height="372" alt="image" src="https://github.com/user-attachments/assets/ee988253-a04d-4f69-8457-bbf3223ded5a" />
 
 
 The system explicitly instructs the language model to answer only from the retrieved document context.
