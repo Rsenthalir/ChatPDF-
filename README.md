@@ -73,8 +73,7 @@ The application uses Gradio to provide a chat-style interface with conversation 
 - Python 3.9 or higher
 - Ollama installed and running
 
-### Install Ollama model
-```bash
+### Install Ollama model 
 ollama pull llama3.2:1b
 
 ### Install Python dependencies
